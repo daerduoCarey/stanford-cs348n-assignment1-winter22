@@ -1,0 +1,5 @@
+__pycache__
+.ipynb_checkpoints
+chair_dataset
+chair_dataset.zip
+exp-*
